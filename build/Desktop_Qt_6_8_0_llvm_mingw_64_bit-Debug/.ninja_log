@@ -1,0 +1,20 @@
+# ninja log v5
+709	5329	7473710563600000	CMakeFiles/LAB7_bryan_banegas.dir/mainwindow.cpp.obj	5618db87d9104358
+697	4752	7473710563600000	CMakeFiles/LAB7_bryan_banegas.dir/LAB7_bryan_banegas_autogen/mocs_compilation.cpp.obj	b2757959d0a565d9
+39	618	7473710580000000	LAB7_bryan_banegas_autogen/timestamp	93cc64c95310bdaa
+5330	5835	7473710613400000	LAB7_bryan_banegas.exe	b365b571dfcc8272
+39	618	7473710580000000	LAB7_bryan_banegas_autogen/mocs_compilation.cpp	93cc64c95310bdaa
+39	618	7473710580000000	E:/QT_ejercicios/LAB7_bryan_banegas/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/LAB7_bryan_banegas_autogen/timestamp	93cc64c95310bdaa
+39	618	7473710580000000	E:/QT_ejercicios/LAB7_bryan_banegas/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/LAB7_bryan_banegas_autogen/mocs_compilation.cpp	93cc64c95310bdaa
+11261	12819	7473597259800000	CMakeFiles/LAB7_bryan_banegas.dir/notas.cpp.obj	d9e02a582f9e0bd2
+4314	7900	7473710315100000	CMakeFiles/LAB7_bryan_banegas.dir/main.cpp.obj	d8ceb4d1310a0e65
+4748	11888	7473631562500000	CMakeFiles/LAB7_bryan_banegas.dir/productos.cpp.obj	6180f1e910d5994f
+131	5167	7473719920000000	LAB7_bryan_banegas_autogen/timestamp	93cc64c95310bdaa
+131	5167	7473719920000000	LAB7_bryan_banegas_autogen/mocs_compilation.cpp	93cc64c95310bdaa
+131	5167	7473719920000000	E:/QT_ejercicios/LAB7_bryan_banegas/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/LAB7_bryan_banegas_autogen/timestamp	93cc64c95310bdaa
+131	5167	7473719920000000	E:/QT_ejercicios/LAB7_bryan_banegas/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/LAB7_bryan_banegas_autogen/mocs_compilation.cpp	93cc64c95310bdaa
+5236	9218	7473719922600000	CMakeFiles/LAB7_bryan_banegas.dir/clientes.cpp.obj	c3611eb65dc714ad
+5170	18317	7473719922600000	CMakeFiles/LAB7_bryan_banegas.dir/LAB7_bryan_banegas_autogen/mocs_compilation.cpp.obj	b2757959d0a565d9
+5220	18331	7473719922600000	CMakeFiles/LAB7_bryan_banegas.dir/main.cpp.obj	d8ceb4d1310a0e65
+5195	18750	7473719922600000	CMakeFiles/LAB7_bryan_banegas.dir/mainwindow.cpp.obj	5618db87d9104358
+18751	21786	7473720069600000	LAB7_bryan_banegas.exe	36727687fa5f1c1b
